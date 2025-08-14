@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Savate:ital,wght@0,200..900;1,200..900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgb(211, 239, 255);
+    color: rgb(0, 0, 0);
+    font: size 35px;
+    font-family:"Savate";
+    text-align: center;
+}
+
+nav {
+    background-color: rgb(136, 203, 203);
+}
